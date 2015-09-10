@@ -1,0 +1,23 @@
+{
+  "name": "document-base-uri",
+  "version": "1.0.0",
+  "description": "A portable document.baseURI implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilgovi/document-base-uri.git"
+  },
+  "keywords": [
+    "baseuri",
+    "ie"
+  ],
+  "author": "Randall Leeds <randall@bleeds.info>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tilgovi/document-base-uri/issues"
+  },
+  "homepage": "https://github.com/tilgovi/document-base-uri#readme"
+}
